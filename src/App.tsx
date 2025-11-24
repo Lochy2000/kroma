@@ -1,6 +1,7 @@
 import { NavBar } from './components/layout/NavBar';
 import { BackgroundEffects } from './components/layout/BackgroundEffects';
 import { HeroSection } from './components/sections/HeroSection';
+import { ContentSection } from './components/sections/ContentSection';
 import { FeaturesSection } from './components/sections/FeaturesSection';
 import { PreOrderBanner } from './components/sections/PreOrderBanner';
 import { Footer } from './components/layout/Footer';
@@ -11,6 +12,7 @@ function App() {
       <BackgroundEffects />
       <NavBar />
       <HeroSection />
+      <ContentSection />
       <FeaturesSection />
       <PreOrderBanner />
       <Footer />
