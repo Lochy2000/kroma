@@ -16,7 +16,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#-overview)
 - [Features](#-features)
@@ -29,22 +29,22 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 KROMA is a premium product landing page showcasing the K-01 "Apex" sunglasses collection. This project demonstrates modern frontend development practices with a focus on animations, performance, and user experience. The landing page features a full-screen hero section with minimal design, progressive content reveal on scroll, and smooth micro-interactions.
 
 **Key Highlights:**
-- 🎨 Minimalist, high-impact design with neon accent colors
-- ✨ Advanced animations using Framer Motion
-- 📱 Fully responsive across all devices
-- ⚡ Optimized performance with lazy loading
-- 🎭 Component-based architecture following React best practices
+-  Minimalist, high-impact design with neon accent colors
+-  Advanced animations using Framer Motion
+-  Fully responsive across all devices
+-  Optimized performance with lazy loading
+-  Component-based architecture following React best practices
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🖼️ UI/UX
+###  UI/UX
 - **Full-Screen Hero Section** - Immersive landing experience with centered content
 - **Animated Text Gradients** - Eye-catching gradient text effects with glow
 - **Scroll-Based Content Reveal** - Progressive disclosure pattern for content sections
@@ -52,14 +52,14 @@ KROMA is a premium product landing page showcasing the K-01 "Apex" sunglasses co
 - **Glass-morphism Effects** - Modern backdrop blur and transparency
 - **Responsive Grid System** - Adaptive layouts for all screen sizes
 
-### 🎬 Animations
+###  Animations
 - Framer Motion orchestration with staggered children
 - Blur-to-focus fade-in animations
 - Scale and rotation transforms on hover
 - Smooth scroll-triggered reveals
 - Custom easing functions for premium feel
 
-### 🎨 Visual Design
+###  Visual Design
 - Dark mode optimized color scheme
 - Neon lime (#C0FF00) accent color
 - Custom gradient backgrounds
@@ -68,7 +68,7 @@ KROMA is a premium product landing page showcasing the K-01 "Apex" sunglasses co
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Core Technologies
 | Technology | Purpose | Version |
@@ -95,7 +95,7 @@ KROMA is a premium product landing page showcasing the K-01 "Apex" sunglasses co
 
 ---
 
-## 🏗️ Design Patterns
+##  Design Patterns
 
 ### 1. **Component Composition Pattern**
 Components are built using composition over inheritance, making them highly reusable and testable.
@@ -144,7 +144,7 @@ Mobile-first approach with Tailwind's responsive utilities:
 
 ---
 
-## 🏛️ Component Architecture
+##  Component Architecture
 
 ### Layout Components
 ```
@@ -187,7 +187,7 @@ This project uses **React's built-in state management**:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - **Node.js** 18+ and npm/yarn/pnpm
@@ -238,7 +238,7 @@ npm run lint
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 kroma-sunglasses/
@@ -277,7 +277,7 @@ kroma-sunglasses/
 
 ---
 
-## ⚡ Performance Optimizations
+##  Performance Optimizations
 
 ### 1. **Build Optimizations**
 - **Vite's Fast HMR** - Instant hot module replacement during development
@@ -306,7 +306,7 @@ kroma-sunglasses/
 
 ---
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 ### Color Palette
 ```css
@@ -331,7 +331,7 @@ Following Tailwind's default spacing scale (4px base unit):
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Add product gallery with Lightbox
 - [ ] Integrate e-commerce functionality
@@ -344,13 +344,13 @@ Following Tailwind's default spacing scale (4px base unit):
 
 ---
 
-## 📄 License
+##  License
 
 This project is a concept design for portfolio purposes.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This is a portfolio project. If you'd like to suggest improvements, feel free to open an issue or submit a pull request.
 
